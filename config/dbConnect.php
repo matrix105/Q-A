@@ -1,17 +1,21 @@
-<?php  
-    class dbConnect {  
-        function __construct() {  
-            require_once('dbConfig.php');  
-            $conn = mysql_connect(DB_HOST, DB_USER, DB_PASSWORD);  
-            mysql_select_db(DB_DATABSE, $conn);  
-            if(!$conn)// testing the connection  
-            {  
-                die ("Cannot connect to the database");  
-            }   
-            return $conn;  
-        }  
-        public function Close(){  
-            mysql_close();  
-        }  
-    }  
-?>  
+<?php
+class dbConnect
+{
+
+    public $conn;
+
+    function __construct()
+    {
+        require_once('dbConfig.php');
+        $conn = new mysqli(DB_HOST, DB_USER, DB_PASSWORD, DB_DATABSE);
+        if (!$conn) // testing the connection  
+        {
+            die("Cannot connect to the database");
+        }
+        return $conn;
+    }
+    public function Close()
+    {
+        $conn->close();
+    }
+}
