@@ -14,8 +14,4 @@ class dbConnect
         }
         return $conn;
     }
-    public function Close()
-    {
-        $conn->close();
-    }
 }
