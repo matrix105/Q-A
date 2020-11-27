@@ -15,13 +15,6 @@
     
     <title><?php print $PAGE_TITLE; ?></title>
 
-    <!-- <?php if ($CURRENT_PAGE == "Index") { ?>
-        <meta name="description" content="" />
-        <meta name="keywords" content="" />
-    <?php } elseif ($CURRENT_PAGE == "Login") { ?>
-        <meta name="description" content="" />
-        <meta name="keywords" content="" />
-    <?php } ?> -->
     <!-- Scripts -->
     <script language="javascript" src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>

@@ -9,19 +9,19 @@
 	<?php include("includes/template/navigation.php"); ?>
 
 	<!-- Page Content -->
-	<div class="jumbotron">
-		<h1>Hello there!</h1>
+	<div class="jumbotron" id="particles">
+		<center> <h1>Hello there!</h1> </center>
 	</div>
 	<div class="container" id="main-content">
-		<h2>Welcome to my website!</h2>
-		<p>Some content goes here! Let's go with the classic "lorem ipsum."</p>
-
-		<p>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-		</p>
-		<p>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-		</p>
+	<center> <h2> Welcome to my Unit Survey System! </h2>
+		<br/>
+		<p>Using this system it will be possible to evaluate your univeristy units as well as suggest changes and giving feedback.
+		I will then generate a Report that the lecturer will be able to view.
+	</p>
+	<p>Don't worry! I value your privacy for this reason I will not dispaly your name. All surveys are anonymous!
+		Only the lecturer will be able to view them as he will need to login</p>
+		<button class="btn btn-lg btn-primary btn-block text-uppercase"  onclick="location.href='survey.php';" name="register" value="Sign up"> Start Now!</button>
+		</center>
 	</div>
 
 	<?php include("includes/template/footer.php"); ?>
