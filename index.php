@@ -15,10 +15,10 @@
 	<div class="container" id="main-content">
 	<center> <h2> Welcome to my Unit Survey System! </h2>
 		<br/>
-		<p>Using this system it will be possible to evaluate your univeristy units as well as suggest changes and giving feedback.
+		<p>Using this system it will be possible to evaluate your university units as well as suggest changes and giving feedback.
 		I will then generate a Report that the lecturer will be able to view.
 	</p>
-	<p>Don't worry! I value your privacy for this reason I will not dispaly your name. All surveys are anonymous!
+	<p>Don't worry! I value your privacy for this reason I will not display your name. All surveys are anonymous!
 		Only the lecturer will be able to view them as he will need to login</p>
 		<button class="btn btn-lg btn-primary btn-block text-uppercase"  onclick="location.href='survey.php';" name="register" value="Sign up"> Start Now!</button>
 		</center>
