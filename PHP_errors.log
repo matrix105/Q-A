@@ -131,3 +131,30 @@
 [16-Dec-2020 00:29:07 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
 [16-Dec-2020 00:34:33 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
 [16-Dec-2020 00:47:43 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[17-Dec-2020 00:12:21 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): Impossibile stabilire la connessione. Rifiuto persistente del computer di destinazione.
+ in C:\xampp\htdocs\Q&A\config\dbConnect.php on line 10
+[17-Dec-2020 00:12:25 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): Impossibile stabilire la connessione. Rifiuto persistente del computer di destinazione.
+ in C:\xampp\htdocs\Q&A\login.php on line 7
+[17-Dec-2020 00:12:25 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[17-Dec-2020 00:12:29 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): Impossibile stabilire la connessione. Rifiuto persistente del computer di destinazione.
+ in C:\xampp\htdocs\Q&A\config\dbConnect.php on line 10
+[17-Dec-2020 00:12:34 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): Impossibile stabilire la connessione. Rifiuto persistente del computer di destinazione.
+ in C:\xampp\htdocs\Q&A\login.php on line 7
+[17-Dec-2020 00:12:34 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[17-Dec-2020 00:12:38 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): Impossibile stabilire la connessione. Rifiuto persistente del computer di destinazione.
+ in C:\xampp\htdocs\Q&A\config\dbConnect.php on line 10
+[17-Dec-2020 00:12:42 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): Impossibile stabilire la connessione. Rifiuto persistente del computer di destinazione.
+ in C:\xampp\htdocs\Q&A\login.php on line 7
+[17-Dec-2020 00:12:42 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[17-Dec-2020 00:12:46 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): Impossibile stabilire la connessione. Rifiuto persistente del computer di destinazione.
+ in C:\xampp\htdocs\Q&A\config\dbConnect.php on line 10
+[17-Dec-2020 00:12:49 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[17-Dec-2020 00:12:49 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[17-Dec-2020 00:12:51 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[17-Dec-2020 01:46:18 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[17-Dec-2020 03:15:41 Europe/Berlin] PHP Deprecated:  Non-static method Question::build() should not be called statically in C:\xampp\htdocs\Q&A\survey.php on line 52
+[17-Dec-2020 03:15:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\Q&A\class\class-question.php:15
+Stack trace:
+#0 C:\xampp\htdocs\Q&A\survey.php(52): Question::build()
+#1 {main}
+  thrown in C:\xampp\htdocs\Q&A\class\class-question.php on line 15

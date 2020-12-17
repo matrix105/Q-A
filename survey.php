@@ -1,4 +1,5 @@
 <?php include("config/config.php");
+require_once("class/class-question.php");
 $CURRENT_PAGE = "Survey";
 $PAGE_TITLE = "Survey"; ?>
 
@@ -6,12 +7,27 @@ $PAGE_TITLE = "Survey"; ?>
 <html>
 <!-- Head  -->
 <?php include("includes/template/head.php"); ?>
-
+1
 <style>
     #form_survay fieldset:not(:first-of-type) {
         display: none;
     }
 </style>
+
+<?php
+function nextStep()
+{
+    echo '<input type="button" class="next btn btn-primary text-uppercase" value="Next" />';
+}
+
+function prevStep()
+{
+    echo '<input type="button" name="previous" class="previous btn btn-warning text-uppercase" value="Previous" />
+    ';
+}
+
+?>
+
 
 <body>
     <!-- Navigation  -->
@@ -32,49 +48,59 @@ $PAGE_TITLE = "Survey"; ?>
             <div class="card-body">
                 <form id="form_survay" novalidate action="action.php" method="post">
                     <fieldset>
-                        <h2>Step 1: Your Details</h2>
-                        <div class="form-label-group">
-                            <input type="text" name="data[fname]" id="fname" class="form-control" placeholder="first name" required autofocus>
-                            <label for="fname">First Name</label>
-                        </div>
-                        <div class="form-label-group">
-                            <input type="text" name="data[lname]" id="lname" class="form-control" placeholder="last name" required >
-                            <label for="lname">Last Name</label>
-                        </div>
-                        <div class="form-label-group">
-                            <input type="text" name="data[studid]" id="studid" class="form-control" placeholder="studid" required >
-                            <label for="studid">Student Number</label>
-                        </div>
+                        <?php $x = new Question(1, 'I can see how this unit contributes to my overall programme of study.');
+                        $x->build();
+                        ?>
+                        <?php nextStep(); ?>
+                    </fieldset>
 
-                        <input type="button" class="next btn btn-primary text-uppercase" value="Next" />
+                    <fieldset>
+                        <?php $x = new Question(2, 'The teaching was effective in helping me learn.');
+                        $x->build();
+                        ?>
+
+                        <?php prevStep(); ?>
+                        <?php nextStep(); ?>
                     </fieldset>
                     <fieldset>
-                        <h2> Step 2: Add Personnel Details</h2>
-                        <div class="form-label-group">
-                            <input type="text" name="data[uni]" id="uni" class="form-control" placeholder="University" required autofocus>
-                            <label for="uni">University</label>
-                        </div>
-                        <div class="form-label-group">
-                            <input type="text" name="data[unit]" id="unit" class="form-control" placeholder="unit" required >
-                            <label for="unit">Unit</label>
-                        </div>
+                        <?php $x = new Question(3, 'I found the online resources (e.g. those available by Moodle, lecture notes etc.) supported my learning.');
+                        $x->build();
+                        ?>
 
-                        <input type="button" name="previous" class="previous btn btn-warning text-uppercase" value="Previous" />
-                        <input type="button" name="next" class="next btn btn-primary text-uppercase" value="Next" />
+                        <?php prevStep(); ?>
+                        <?php nextStep(); ?>
                     </fieldset>
-                    
                     <fieldset>
-                        <h2>Step 3: Contact Information</h2>
-                        <div class="form-label-group">
-                            <input type="number" name="data[rating]" id="rating" class="form-control" placeholder="rating" required autofocus>
-                            <label for="rating">Rating</label>
-                        </div>
-                        <div class="form-label-group">
-                            <textarea name="data[suggestion]" id="suggestion" class="form-control" placeholder="suggestion" required  rows="4"> </textarea>
-                            <label for="suggestion">Suggestion or Comment</label>
-                        </div>
+                        <?php $x = new Question(4, 'Overall, I am satisfied with the quality of the unit.');
+                        $x->build();
+                        ?>
 
-                        <input type="button" name="previous" class="previous btn btn-warning text-uppercase" value="Previous" />
+                        <?php prevStep(); ?>
+                        <?php nextStep(); ?>
+                    </fieldset>
+                    <fieldset>
+                        <?php $x = new Question(5, 'What aspects of the in-person and online teaching worked well on this unit?');
+                        $x->build_text();
+                        ?>
+
+                        <?php prevStep(); ?>
+                        <?php nextStep(); ?>
+                    </fieldset>
+                    <fieldset>
+                        <?php $x = new Question(6, 'What aspects of the in-person and online teaching worked well on this unit?');
+                        $x->build_text();
+                        ?>
+
+                        <?php prevStep(); ?>
+                        <?php nextStep(); ?>
+                    </fieldset>
+
+                    <fieldset>
+                    <?php $x = new Question(7, 'Any other comments or Suggestion?');
+                        $x->build_text();
+                        ?>
+
+                        <?php prevStep(); ?>
                         <input type="submit" name="submit" class="submit btn btn-success text-uppercase" value="Submit" id="submit_data" />
                     </fieldset>
                 </form>
@@ -112,6 +138,15 @@ $PAGE_TITLE = "Survey"; ?>
                     .html(percent + "%");
             }
         });
+    </script>
+    <script>
+        var slider = document.getElementById("quest1");
+        var output = document.getElementById("val1");
+        output.innerHTML = slider.value;
+
+        slider.oninput = function() {
+            output.innerHTML = this.value;
+        }
     </script>
 
     <?php include("includes/template/footer.php"); ?>
