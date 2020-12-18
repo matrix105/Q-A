@@ -1,8 +1,6 @@
 <?php
 require_once('./config/dbConfig.php');
-require_once './config/dbConnect.php';
-
-session_start();
+require_once('./config/dbConnect.php');
 
 class dbFunction
 {
@@ -10,7 +8,7 @@ class dbFunction
 	function __construct()
 	{
 		// connecting to database
-		$db = new dbConnect();
+		$this->db = new dbConnect();
 	}
 	// destructor
 	function __destruct()
@@ -27,10 +25,10 @@ class dbFunction
 	{
 		$db = new mysqli(DB_HOST, DB_USER, DB_PASSWORD, DB_DATABSE);
 		$res = $db->query("SELECT * FROM users WHERE username = '" . $username . "' AND password = '" . md5($password) . "'");
-		$user_data = $res->fetch_array(MYSQLI_ASSOC);
+		$user_data = $res->fetch_array();
 
 		print_r($user_data);
-		$no_rows = $res->fetch_array(MYSQLI_NUM);
+		$no_rows = $res->fetch_array();
 
 		if ($no_rows == 1) {
 

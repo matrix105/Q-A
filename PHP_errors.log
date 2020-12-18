@@ -158,3 +158,1379 @@ Stack trace:
 #0 C:\xampp\htdocs\Q&A\survey.php(52): Question::build()
 #1 {main}
   thrown in C:\xampp\htdocs\Q&A\class\class-question.php on line 15
+[17-Dec-2020 19:26:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Question::build() in C:\xampp\htdocs\Q&A\survey.php:51
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\survey.php on line 51
+[17-Dec-2020 19:26:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Question::build() in C:\xampp\htdocs\Q&A\survey.php:51
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\survey.php on line 51
+[17-Dec-2020 19:26:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Question::build() in C:\xampp\htdocs\Q&A\survey.php:51
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\survey.php on line 51
+[17-Dec-2020 20:11:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'dbFunction' not found in C:\xampp\htdocs\Q&A\action.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\action.php on line 3
+[17-Dec-2020 20:14:03 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:03 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:03 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:03 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:03 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:03 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:03 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:03 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:04 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:04 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:04 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:04 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:04 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:04 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:04 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:04 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:14:26 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[17-Dec-2020 20:14:27 Europe/Berlin] PHP Notice:  Undefined index: register in C:\xampp\htdocs\Q&A\register.php on line 6
+[17-Dec-2020 20:14:27 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 20:14:27 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 20:14:27 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 20:14:27 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 20:14:39 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 20:14:39 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 20:14:39 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 20:14:39 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 20:15:07 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:15:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:15:07 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:15:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:15:07 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:15:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:15:07 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:15:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:15:07 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:15:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:15:07 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:15:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:15:07 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:15:07 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:28:47 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:28:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:28:47 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:28:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:28:47 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:28:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:28:47 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:28:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:28:47 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:28:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:28:47 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:28:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:28:47 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:28:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:28:49 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:28:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:28:49 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:28:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:28:49 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:28:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:28:49 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:28:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:28:49 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:28:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:28:49 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:28:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:28:49 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:28:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 7
+[17-Dec-2020 20:35:24 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:35:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:35:24 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:35:24 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:35:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:35:24 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:35:24 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:35:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:35:24 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:35:24 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:35:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:35:24 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:35:24 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:35:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:35:24 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:35:24 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:35:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:35:24 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:35:24 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:35:24 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:35:24 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:13 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:13 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:13 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:13 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:13 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:13 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:13 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:13 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:13 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:13 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:13 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:13 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:13 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:13 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:13 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:13 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:13 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:13 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:13 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:13 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:13 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:13 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 15
+[17-Dec-2020 20:36:13 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 15
+[17-Dec-2020 20:36:13 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 15
+[17-Dec-2020 20:36:15 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:15 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:15 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:15 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:15 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:15 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:15 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:15 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:15 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:15 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:15 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:15 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:15 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:15 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:15 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 15
+[17-Dec-2020 20:36:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 15
+[17-Dec-2020 20:36:15 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 15
+[17-Dec-2020 20:36:31 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:31 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:31 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:31 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:31 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:31 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:31 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:31 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:31 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:31 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:31 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:31 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:31 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:31 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:31 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:31 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:31 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:31 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:31 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:31 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:31 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in C:\xampp\htdocs\Q&A\action.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\action.php on line 15
+[17-Dec-2020 20:36:32 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:32 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:32 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:32 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:32 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:32 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:32 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:32 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:32 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:32 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:32 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:32 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:32 Europe/Berlin] PHP Notice:  Undefined variable: data in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:32 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\action.php on line 6
+[17-Dec-2020 20:36:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in C:\xampp\htdocs\Q&A\action.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\action.php on line 15
+[17-Dec-2020 20:39:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Function name must be a string in C:\xampp\htdocs\Q&A\action.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\action.php on line 15
+[17-Dec-2020 20:39:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Function name must be a string in C:\xampp\htdocs\Q&A\action.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\action.php on line 15
+[17-Dec-2020 20:43:20 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 20:43:20 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 20:43:20 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 20:43:20 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 20:43:39 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 20:43:39 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 20:43:39 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 20:43:39 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 20:45:11 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 20:45:11 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 20:45:11 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 20:45:11 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 20:47:59 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 20:47:59 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 20:47:59 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 20:47:59 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 20:49:54 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 20:49:54 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 20:49:54 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 20:49:54 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 20:49:55 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 20:49:55 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 20:49:55 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 20:49:55 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 20:50:08 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 20:50:08 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 20:50:08 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 20:50:08 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 20:56:49 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 20:56:49 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 20:56:49 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 20:56:49 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 20:59:32 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 20:59:32 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 20:59:32 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 20:59:32 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:00:30 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:00:30 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:00:30 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:00:30 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:01:15 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:01:15 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:01:15 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:01:15 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:01:16 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:01:16 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:01:16 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:01:16 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:02:14 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:02:14 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:02:14 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:02:14 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:02:36 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:02:36 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:02:36 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:02:36 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:02:57 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:02:57 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:02:57 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:02:57 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:04:37 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:04:37 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:04:37 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:04:37 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:04:37 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:04:37 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:04:37 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:04:37 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:06:53 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:06:53 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:06:53 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:06:53 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:10:46 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:10:46 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:10:46 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:10:46 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:11:03 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:11:03 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:11:03 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:11:03 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:12:01 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:12:01 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:12:01 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:12:01 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:12:02 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:12:02 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:12:02 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:12:02 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:14:26 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:14:26 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:14:26 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:14:26 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:14:59 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:14:59 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:14:59 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:14:59 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:31:57 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:31:57 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:31:57 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:31:57 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:31:59 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:31:59 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:31:59 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\analytics.php on line 7
+[17-Dec-2020 21:32:04 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:32:04 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:32:04 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:32:04 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:32:06 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:32:06 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:32:06 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\analytics.php on line 7
+[17-Dec-2020 21:33:42 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:33:42 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:33:42 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:33:42 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:33:44 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:33:44 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:33:44 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\analytics.php on line 7
+[17-Dec-2020 21:33:44 Europe/Berlin] PHP Notice:  Undefined variable: dataPoints in C:\xampp\htdocs\Q&A\analytics.php on line 46
+[17-Dec-2020 21:33:49 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:33:49 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:33:49 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:33:49 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:33:51 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:33:51 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:33:51 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\analytics.php on line 7
+[17-Dec-2020 21:33:51 Europe/Berlin] PHP Notice:  Undefined variable: dataPoints in C:\xampp\htdocs\Q&A\analytics.php on line 46
+[17-Dec-2020 21:34:32 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:34:32 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:34:32 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:34:32 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:34:34 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:34:34 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:34:34 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\analytics.php on line 7
+[17-Dec-2020 21:34:34 Europe/Berlin] PHP Notice:  Undefined variable: dataPoints in C:\xampp\htdocs\Q&A\analytics.php on line 46
+[17-Dec-2020 21:34:36 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:34:36 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:34:36 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:34:36 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:34:38 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:34:38 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:34:38 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\test.php on line 8
+[17-Dec-2020 21:35:25 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:35:25 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:35:25 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:35:25 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:35:27 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:35:27 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:35:27 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\test.php on line 8
+[17-Dec-2020 21:35:41 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:35:41 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:35:41 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:35:41 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:35:43 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:35:43 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:35:43 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\test.php on line 8
+[17-Dec-2020 21:38:21 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:38:21 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:38:21 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:38:21 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:38:23 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:38:23 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:38:23 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\test.php on line 9
+[17-Dec-2020 21:39:05 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:39:05 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:39:05 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:39:05 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:39:08 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:39:08 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:39:08 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\test.php on line 8
+[17-Dec-2020 21:40:14 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:40:14 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:40:14 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:40:14 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:40:16 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:40:16 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:40:16 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\test.php on line 12
+[17-Dec-2020 21:40:46 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:40:46 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:40:46 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:40:46 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:40:48 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:40:48 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:40:48 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\test.php on line 12
+[17-Dec-2020 21:41:05 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:41:05 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:41:05 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:41:05 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:41:07 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:41:07 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:41:07 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\test.php on line 12
+[17-Dec-2020 21:44:36 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:44:36 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:44:36 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:44:36 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:44:36 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:44:36 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:44:36 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:44:36 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:44:38 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:44:38 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:44:38 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\test.php on line 12
+[17-Dec-2020 21:44:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\Q&A\test.php:13
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 21:44:38 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:44:38 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:44:38 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\test.php on line 12
+[17-Dec-2020 21:44:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\Q&A\test.php:13
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 21:44:52 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:44:52 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:44:52 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:44:52 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:44:54 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:44:54 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:44:54 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\test.php on line 12
+[17-Dec-2020 21:44:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\Q&A\test.php:13
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 21:45:58 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:45:58 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:45:58 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:45:58 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:46:00 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:46:00 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:46:27 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:46:27 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:46:27 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:46:27 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:46:29 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:46:29 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:46:52 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:46:52 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:46:52 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:46:52 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:46:54 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:46:54 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\analytics.php on line 5
+[17-Dec-2020 21:46:54 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\analytics.php on line 7
+[17-Dec-2020 21:46:54 Europe/Berlin] PHP Notice:  Undefined variable: dataPoints in C:\xampp\htdocs\Q&A\analytics.php on line 46
+[17-Dec-2020 21:47:12 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:47:12 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:47:12 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:47:12 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:47:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\Q&A\action.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\action.php on line 20
+[17-Dec-2020 21:49:35 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:49:35 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:49:35 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:49:35 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:49:38 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:49:38 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:50:03 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:50:03 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:50:03 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:50:03 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:50:05 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:50:05 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:50:05 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:50:05 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:50:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\Q&A\action.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\action.php on line 23
+[17-Dec-2020 21:50:06 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:50:06 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 6
+[17-Dec-2020 21:50:06 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:50:06 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:50:06 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:50:06 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:50:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\Q&A\action.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\action.php on line 23
+[17-Dec-2020 21:50:07 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:50:07 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:50:07 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:50:07 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:50:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\Q&A\action.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\action.php on line 23
+[17-Dec-2020 21:50:13 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:50:13 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:50:13 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:50:13 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:50:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\Q&A\action.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\action.php on line 23
+[17-Dec-2020 21:51:30 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:51:30 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:51:30 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:51:30 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:51:30 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:51:30 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:51:30 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:51:30 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:51:32 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:51:32 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:51:32 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\test.php on line 14
+[17-Dec-2020 21:51:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\Q&A\test.php:16
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\test.php on line 16
+[17-Dec-2020 21:51:52 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:51:52 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:51:52 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:51:52 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:51:52 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 21:51:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\Q&A\test.php:13
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 21:51:53 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:51:53 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:51:53 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:51:53 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:51:53 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 21:51:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\Q&A\test.php:13
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 21:51:56 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:51:56 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:51:56 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:51:56 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:51:56 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 21:51:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\Q&A\test.php:13
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 21:52:07 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:52:07 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:52:07 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:52:07 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:52:07 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 21:52:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\Q&A\test.php:13
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 21:52:08 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:52:08 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:52:08 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:52:08 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:52:08 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 21:52:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\Q&A\test.php:13
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 21:52:08 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:52:08 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:52:08 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:52:08 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:52:08 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 21:52:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\Q&A\test.php:13
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 21:52:08 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:52:08 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:52:08 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:52:08 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:52:08 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 21:52:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\Q&A\test.php:13
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 21:52:08 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:52:08 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:52:08 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:52:08 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:52:08 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 21:52:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\xampp\htdocs\Q&A\test.php:13
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 21:53:08 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:53:08 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:53:08 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:53:08 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:53:08 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:53:08 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:53:08 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:53:08 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:53:11 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:53:11 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:53:11 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 21:53:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\Q&A\test.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\test.php on line 15
+[17-Dec-2020 21:53:29 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:53:29 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:53:29 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:53:29 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:53:29 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:53:29 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:53:29 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:53:29 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:53:32 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:53:32 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:53:32 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 21:53:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\Q&A\test.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\test.php on line 15
+[17-Dec-2020 21:54:02 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:54:02 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:54:03 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:54:03 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:54:03 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:54:03 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:54:03 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:54:03 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:54:05 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:54:05 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:54:05 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 21:54:15 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:54:15 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:54:15 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:54:15 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:54:15 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:54:15 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:54:15 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:54:15 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:54:17 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:54:17 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:54:17 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 21:54:19 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:54:19 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:54:19 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:54:19 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:54:19 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:54:19 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:54:19 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:54:19 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:54:21 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:54:21 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:54:21 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 21:54:31 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:54:31 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:54:31 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:54:31 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:54:31 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:54:31 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:54:31 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:54:31 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:54:33 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:54:33 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:54:33 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 21:54:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\Q&A\test.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\test.php on line 15
+[17-Dec-2020 21:56:55 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 21:56:55 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 21:56:55 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 21:56:55 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 21:56:55 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:56:55 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:56:55 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:56:55 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:56:58 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:56:58 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 21:56:58 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 21:56:58 Europe/Berlin] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\Q&A\test.php on line 15
+[17-Dec-2020 21:56:58 Europe/Berlin] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\test.php on line 23
+[17-Dec-2020 21:58:41 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[17-Dec-2020 21:58:41 Europe/Berlin] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\Q&A\login.php on line 64
+[17-Dec-2020 21:58:43 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[17-Dec-2020 21:58:43 Europe/Berlin] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\Q&A\login.php on line 64
+[17-Dec-2020 21:58:43 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[17-Dec-2020 21:58:43 Europe/Berlin] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\Q&A\login.php on line 64
+[17-Dec-2020 21:58:44 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[17-Dec-2020 21:58:44 Europe/Berlin] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\Q&A\login.php on line 64
+[17-Dec-2020 21:58:44 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[17-Dec-2020 21:58:44 Europe/Berlin] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\Q&A\login.php on line 64
+[17-Dec-2020 21:58:48 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[17-Dec-2020 21:58:48 Europe/Berlin] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\Q&A\login.php on line 64
+[17-Dec-2020 21:59:45 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[17-Dec-2020 22:00:14 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 22:00:14 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 22:00:14 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 22:00:14 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 22:00:14 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 22:00:14 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 22:00:14 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 22:00:14 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 22:00:16 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 22:00:16 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 22:00:16 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 22:00:16 Europe/Berlin] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\Q&A\test.php on line 15
+[17-Dec-2020 22:00:16 Europe/Berlin] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\test.php on line 23
+[17-Dec-2020 22:00:32 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[17-Dec-2020 22:01:01 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 22:01:01 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 22:01:01 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 22:01:01 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 22:01:01 Europe/Berlin] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 22:01:01 Europe/Berlin] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 22:01:01 Europe/Berlin] PHP Warning:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 22:01:01 Europe/Berlin] PHP Warning:  Use of undefined constant DB_DATABSE - assumed 'DB_DATABSE' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 22:01:04 Europe/Berlin] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 22:01:04 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Host sconosciuto.  in C:\xampp\htdocs\Q&A\test.php on line 10
+[17-Dec-2020 22:01:04 Europe/Berlin] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\test.php on line 13
+[17-Dec-2020 22:01:04 Europe/Berlin] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\Q&A\test.php on line 15
+[17-Dec-2020 22:01:04 Europe/Berlin] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in C:\xampp\htdocs\Q&A\test.php on line 23
+[17-Dec-2020 22:02:19 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\teste.php on line 8
+[17-Dec-2020 22:02:45 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\teste.php on line 8
+[17-Dec-2020 22:03:15 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\teste.php on line 8
+[17-Dec-2020 22:03:16 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\teste.php on line 8
+[17-Dec-2020 22:10:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 42
+[17-Dec-2020 22:11:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 37
+[17-Dec-2020 22:11:35 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 42
+[17-Dec-2020 22:11:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 37
+[17-Dec-2020 22:11:37 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 42
+[17-Dec-2020 22:11:38 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 37
+[17-Dec-2020 22:11:38 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 42
+[17-Dec-2020 22:11:52 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 42
+[17-Dec-2020 22:11:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 42
+[17-Dec-2020 22:13:56 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 37
+[17-Dec-2020 22:13:56 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 42
+[17-Dec-2020 22:13:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 37
+[17-Dec-2020 22:13:57 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 42
+[17-Dec-2020 22:13:58 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 37
+[17-Dec-2020 22:13:58 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 42
+[17-Dec-2020 22:13:58 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 37
+[17-Dec-2020 22:13:58 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 42
+[17-Dec-2020 22:13:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 37
+[17-Dec-2020 22:13:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 42
+[17-Dec-2020 22:13:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 37
+[17-Dec-2020 22:13:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 42
+[17-Dec-2020 22:13:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 37
+[17-Dec-2020 22:13:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 42
+[17-Dec-2020 22:13:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 37
+[17-Dec-2020 22:13:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 42
+[17-Dec-2020 22:13:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 37
+[17-Dec-2020 22:14:00 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 42
+[17-Dec-2020 22:14:06 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 37
+[17-Dec-2020 22:14:06 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\teste.php on line 42
+[17-Dec-2020 22:14:19 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\Q&A\teste.php:35
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\teste.php on line 35
+[17-Dec-2020 22:14:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\Q&A\teste.php:35
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\teste.php on line 35
+[17-Dec-2020 22:14:41 Europe/Berlin] PHP Notice:  Undefined index: quest1 in C:\xampp\htdocs\Q&A\teste.php on line 42
+[17-Dec-2020 22:36:27 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[17-Dec-2020 22:36:29 Europe/Berlin] PHP Notice:  Undefined index: register in C:\xampp\htdocs\Q&A\register.php on line 6
+[17-Dec-2020 22:36:29 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[17-Dec-2020 22:36:29 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[17-Dec-2020 22:36:29 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[17-Dec-2020 22:36:29 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[17-Dec-2020 23:21:22 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$pop' (T_VARIABLE) in C:\xampp\htdocs\Q&A\analytics.php on line 92
+[17-Dec-2020 23:59:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\Q&A\analytics.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\analytics.php on line 26
+[17-Dec-2020 23:59:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\Q&A\analytics.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\analytics.php on line 26
+[17-Dec-2020 23:59:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\Q&A\analytics.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\analytics.php on line 26
+[17-Dec-2020 23:59:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\Q&A\analytics.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\analytics.php on line 26
+[17-Dec-2020 23:59:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\Q&A\analytics.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\analytics.php on line 26
+[17-Dec-2020 23:59:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\Q&A\analytics.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\analytics.php on line 26
+[17-Dec-2020 23:59:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\Q&A\analytics.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\analytics.php on line 26
+[18-Dec-2020 00:00:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\Q&A\analytics.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\analytics.php on line 26
+[18-Dec-2020 00:00:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\Q&A\analytics.php:26
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\analytics.php on line 26
+[18-Dec-2020 00:01:51 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\Q&A\analytics.php on line 27
+[18-Dec-2020 00:01:51 Europe/Berlin] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\Q&A\analytics.php on line 27
+[18-Dec-2020 00:01:51 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\Q&A\analytics.php on line 27
+[18-Dec-2020 00:02:15 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\Q&A\analytics.php on line 27
+[18-Dec-2020 00:02:15 Europe/Berlin] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\Q&A\analytics.php on line 27
+[18-Dec-2020 00:02:15 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\Q&A\analytics.php on line 27
+[18-Dec-2020 00:02:15 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\Q&A\analytics.php on line 105
+[18-Dec-2020 00:06:43 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\Q&A\analytics.php on line 27
+[18-Dec-2020 00:06:43 Europe/Berlin] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\Q&A\analytics.php on line 27
+[18-Dec-2020 00:06:43 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\Q&A\analytics.php on line 27
+[18-Dec-2020 00:06:43 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\Q&A\analytics.php on line 105
+[18-Dec-2020 00:07:16 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\Q&A\analytics.php on line 27
+[18-Dec-2020 00:07:16 Europe/Berlin] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\Q&A\analytics.php on line 27
+[18-Dec-2020 00:07:16 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\Q&A\analytics.php on line 27
+[18-Dec-2020 00:15:40 Europe/Berlin] PHP Notice:  Undefined variable: quest in C:\xampp\htdocs\Q&A\analytics.php on line 27
+[18-Dec-2020 00:15:40 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\analytics.php on line 27
+[18-Dec-2020 00:15:40 Europe/Berlin] PHP Notice:  Undefined variable: quest in C:\xampp\htdocs\Q&A\analytics.php on line 27
+[18-Dec-2020 00:15:40 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\analytics.php on line 27
+[18-Dec-2020 00:15:40 Europe/Berlin] PHP Notice:  Undefined variable: quest in C:\xampp\htdocs\Q&A\analytics.php on line 27
+[18-Dec-2020 00:15:40 Europe/Berlin] PHP Notice:  Undefined index:  in C:\xampp\htdocs\Q&A\analytics.php on line 27
+[18-Dec-2020 00:25:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in C:\xampp\htdocs\Q&A\analytics.php:28
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\analytics.php on line 28
+[18-Dec-2020 00:26:00 Europe/Berlin] PHP Notice:  Undefined variable: total in C:\xampp\htdocs\Q&A\analytics.php on line 26
+[18-Dec-2020 00:26:00 Europe/Berlin] PHP Notice:  Undefined variable: total in C:\xampp\htdocs\Q&A\analytics.php on line 26
+[18-Dec-2020 00:26:00 Europe/Berlin] PHP Notice:  Undefined variable: total in C:\xampp\htdocs\Q&A\analytics.php on line 26
+[18-Dec-2020 00:26:00 Europe/Berlin] PHP Notice:  Undefined variable: total in C:\xampp\htdocs\Q&A\analytics.php on line 104
+[18-Dec-2020 00:26:25 Europe/Berlin] PHP Notice:  Undefined variable: total in C:\xampp\htdocs\Q&A\analytics.php on line 104
+[18-Dec-2020 00:27:00 Europe/Berlin] PHP Notice:  Undefined variable: total in C:\xampp\htdocs\Q&A\analytics.php on line 104
+[18-Dec-2020 00:27:15 Europe/Berlin] PHP Notice:  Undefined variable: total in C:\xampp\htdocs\Q&A\analytics.php on line 104
+[18-Dec-2020 00:27:33 Europe/Berlin] PHP Notice:  Undefined variable: total in C:\xampp\htdocs\Q&A\analytics.php on line 104
+[18-Dec-2020 00:27:55 Europe/Berlin] PHP Notice:  Undefined variable: total in C:\xampp\htdocs\Q&A\analytics.php on line 104
+[18-Dec-2020 00:27:56 Europe/Berlin] PHP Notice:  Undefined variable: total in C:\xampp\htdocs\Q&A\analytics.php on line 104
+[18-Dec-2020 00:30:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in C:\xampp\htdocs\Q&A\analytics.php:108
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\analytics.php on line 108
+[18-Dec-2020 00:30:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in C:\xampp\htdocs\Q&A\analytics.php:108
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\analytics.php on line 108
+[18-Dec-2020 00:30:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in C:\xampp\htdocs\Q&A\analytics.php:108
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\analytics.php on line 108
+[18-Dec-2020 00:33:47 Europe/Berlin] PHP Notice:  Undefined variable: total in C:\xampp\htdocs\Q&A\ analytics.php on line 104
+[18-Dec-2020 00:33:48 Europe/Berlin] PHP Notice:  Undefined variable: total in C:\xampp\htdocs\Q&A\analytics.php on line 104
+[18-Dec-2020 00:34:05 Europe/Berlin] PHP Notice:  Undefined variable: total in C:\xampp\htdocs\Q&A\analytics.php on line 104
+[18-Dec-2020 00:34:06 Europe/Berlin] PHP Notice:  Undefined variable: total in C:\xampp\htdocs\Q&A\analytics.php on line 104
+[18-Dec-2020 00:34:19 Europe/Berlin] PHP Notice:  Undefined variable: total in C:\xampp\htdocs\Q&A\analytics.php on line 104
+[18-Dec-2020 00:34:19 Europe/Berlin] PHP Notice:  Undefined variable: total in C:\xampp\htdocs\Q&A\analytics.php on line 104
+[18-Dec-2020 00:34:22 Europe/Berlin] PHP Notice:  Undefined variable: total in C:\xampp\htdocs\Q&A\analytics.php on line 104
+[18-Dec-2020 00:34:22 Europe/Berlin] PHP Notice:  Undefined variable: total in C:\xampp\htdocs\Q&A\analytics.php on line 104
+[18-Dec-2020 00:34:22 Europe/Berlin] PHP Notice:  Undefined variable: total in C:\xampp\htdocs\Q&A\analytics.php on line 104
+[18-Dec-2020 00:39:00 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\Q&A\analytics.php on line 106
+[18-Dec-2020 00:39:00 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\Q&A\analytics.php on line 106
+[18-Dec-2020 00:39:00 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\Q&A\analytics.php on line 106
+[18-Dec-2020 00:39:00 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\Q&A\analytics.php on line 106
+[18-Dec-2020 00:39:00 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\Q&A\analytics.php on line 106
+[18-Dec-2020 00:39:00 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\Q&A\analytics.php on line 106
+[18-Dec-2020 00:39:00 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\Q&A\analytics.php on line 106
+[18-Dec-2020 00:39:00 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\Q&A\analytics.php on line 106
+[18-Dec-2020 00:39:00 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\Q&A\analytics.php on line 106
+[18-Dec-2020 00:39:18 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\Q&A\analytics.php on line 106
+[18-Dec-2020 00:39:18 Europe/Berlin] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\Q&A\analytics.php on line 106
+[18-Dec-2020 00:39:18 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\Q&A\analytics.php on line 106
+[18-Dec-2020 00:39:18 Europe/Berlin] PHP Notice:  Undefined offset: 3 in C:\xampp\htdocs\Q&A\analytics.php on line 106
+[18-Dec-2020 00:39:18 Europe/Berlin] PHP Notice:  Undefined offset: 4 in C:\xampp\htdocs\Q&A\analytics.php on line 106
+[18-Dec-2020 00:39:18 Europe/Berlin] PHP Notice:  Undefined offset: 5 in C:\xampp\htdocs\Q&A\analytics.php on line 106
+[18-Dec-2020 00:39:18 Europe/Berlin] PHP Notice:  Undefined offset: 6 in C:\xampp\htdocs\Q&A\analytics.php on line 106
+[18-Dec-2020 00:39:18 Europe/Berlin] PHP Notice:  Undefined offset: 7 in C:\xampp\htdocs\Q&A\analytics.php on line 106
+[18-Dec-2020 00:39:18 Europe/Berlin] PHP Notice:  Undefined offset: 8 in C:\xampp\htdocs\Q&A\analytics.php on line 106
+[18-Dec-2020 00:40:30 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\Q&A\analytics.php on line 106
+[18-Dec-2020 00:40:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in C:\xampp\htdocs\Q&A\analytics.php:106
+Stack trace:
+#0 C:\xampp\htdocs\Q&A\analytics.php(106): printf(Object(mysqli_result))
+#1 {main}
+  thrown in C:\xampp\htdocs\Q&A\analytics.php on line 106
+[18-Dec-2020 00:40:53 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\Q&A\analytics.php on line 106
+[18-Dec-2020 00:43:25 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\Q&A\analytics.php on line 106
+[18-Dec-2020 00:47:05 Europe/Berlin] PHP Warning:  implode(): Argument must be an array in C:\xampp\htdocs\Q&A\analytics.php on line 106
+[18-Dec-2020 00:47:05 Europe/Berlin] PHP Warning:  implode(): Argument must be an array in C:\xampp\htdocs\Q&A\analytics.php on line 106
+[18-Dec-2020 00:47:05 Europe/Berlin] PHP Warning:  implode(): Argument must be an array in C:\xampp\htdocs\Q&A\analytics.php on line 106
+[18-Dec-2020 00:48:31 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[18-Dec-2020 00:48:31 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[18-Dec-2020 00:48:31 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[18-Dec-2020 00:48:31 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 00:48:31 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 13
+[18-Dec-2020 00:48:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\Q&A\action.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\Q&A\action.php on line 23
+[18-Dec-2020 00:49:49 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[18-Dec-2020 00:49:49 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[18-Dec-2020 00:49:49 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[18-Dec-2020 00:49:49 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 00:49:49 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 13
+[18-Dec-2020 00:57:17 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[18-Dec-2020 00:57:19 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[18-Dec-2020 01:01:16 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[18-Dec-2020 01:02:04 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[18-Dec-2020 01:02:12 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[18-Dec-2020 01:02:18 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[18-Dec-2020 01:02:23 Europe/Berlin] PHP Notice:  Undefined index: register in C:\xampp\htdocs\Q&A\register.php on line 6
+[18-Dec-2020 01:02:23 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[18-Dec-2020 01:02:23 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[18-Dec-2020 01:02:23 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[18-Dec-2020 01:02:23 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:02:23 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 13
+[18-Dec-2020 01:02:27 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[18-Dec-2020 01:02:30 Europe/Berlin] PHP Notice:  Undefined index: register in C:\xampp\htdocs\Q&A\register.php on line 6
+[18-Dec-2020 01:02:30 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[18-Dec-2020 01:02:30 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[18-Dec-2020 01:02:30 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[18-Dec-2020 01:02:30 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:02:30 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 13
+[18-Dec-2020 01:02:39 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[18-Dec-2020 01:02:39 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[18-Dec-2020 01:02:39 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[18-Dec-2020 01:02:39 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:02:39 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 13
+[18-Dec-2020 01:02:43 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[18-Dec-2020 01:02:48 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[18-Dec-2020 01:03:03 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[18-Dec-2020 01:11:16 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[18-Dec-2020 01:13:22 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[18-Dec-2020 01:13:30 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[18-Dec-2020 01:13:50 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[18-Dec-2020 01:13:54 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[18-Dec-2020 01:14:11 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[18-Dec-2020 01:16:13 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[18-Dec-2020 01:16:14 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[18-Dec-2020 01:16:14 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[18-Dec-2020 01:16:19 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 8
+[18-Dec-2020 01:18:35 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:18:35 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 12
+[18-Dec-2020 01:18:36 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:18:36 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 12
+[18-Dec-2020 01:18:36 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:18:36 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 12
+[18-Dec-2020 01:18:41 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:18:41 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 12
+[18-Dec-2020 01:20:40 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:20:42 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:20:42 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:20:43 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:20:44 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:20:48 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:22:38 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:22:40 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:22:47 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:23:17 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:23:25 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:24:11 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:24:18 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:28:45 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:28:52 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:29:39 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:29:40 Europe/Berlin] PHP Notice:  Undefined index: register in C:\xampp\htdocs\Q&A\register.php on line 6
+[18-Dec-2020 01:29:40 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[18-Dec-2020 01:29:40 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[18-Dec-2020 01:29:40 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[18-Dec-2020 01:29:40 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:29:40 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 14
+[18-Dec-2020 01:29:56 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[18-Dec-2020 01:29:56 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[18-Dec-2020 01:29:56 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[18-Dec-2020 01:29:56 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:29:56 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 14
+[18-Dec-2020 01:30:07 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:30:14 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:30:54 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:31:58 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:32:03 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:32:28 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:32:28 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 12
+[18-Dec-2020 01:32:34 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:32:34 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 12
+[18-Dec-2020 01:32:41 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:33:34 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:33:43 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:34:17 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:34:17 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 12
+[18-Dec-2020 01:34:28 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:37:42 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:37:43 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:37:47 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:37:53 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:38:27 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:38:31 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:39:35 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:39:41 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:40:19 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:43:10 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:43:23 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:43:24 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:43:24 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:43:24 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:43:28 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:43:38 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:52:50 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\Q&A\analytics.php on line 169
+[18-Dec-2020 01:52:51 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\Q&A\analytics.php on line 169
+[18-Dec-2020 01:52:54 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:52:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:52:55 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:52:55 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:52:55 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:52:55 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:52:55 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:52:55 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:52:56 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:52:56 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:52:56 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:52:56 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:52:56 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:52:56 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:52:57 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:53:09 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 7
+[18-Dec-2020 01:53:10 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:53:10 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:53:13 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:53:13 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:53:14 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:53:14 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:53:15 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:53:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:53:15 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:53:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:53:15 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:53:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:53:15 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:53:15 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:53:16 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:53:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:53:50 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:53:50 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:53:50 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:53:50 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:53:50 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:53:50 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:53:58 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:53:58 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:53:59 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:53:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:53:59 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:53:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:54:01 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:54:01 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:54:14 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:54:14 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:54:18 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:54:18 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:54:19 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:54:19 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:54:19 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:54:19 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 11
+[18-Dec-2020 01:55:14 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\Q&A\analytics.php on line 169
+[18-Dec-2020 02:27:02 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 12
+[18-Dec-2020 02:27:07 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 12
+[18-Dec-2020 02:30:39 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 12
+[18-Dec-2020 02:30:39 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 12
+[18-Dec-2020 02:30:40 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 12
+[18-Dec-2020 02:30:40 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 12
+[18-Dec-2020 02:30:46 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 12
+[18-Dec-2020 02:30:47 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 12
+[18-Dec-2020 02:30:53 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 12
+[18-Dec-2020 02:30:59 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 12
+[18-Dec-2020 02:31:01 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 12
+[18-Dec-2020 02:31:03 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 12
+[18-Dec-2020 02:32:10 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 12
+[18-Dec-2020 02:33:36 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 12
+[18-Dec-2020 02:33:52 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 12
+[18-Dec-2020 02:35:09 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 12
+[18-Dec-2020 02:35:22 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 12
+[18-Dec-2020 02:36:22 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 12
+[18-Dec-2020 02:36:40 Europe/Berlin] PHP Notice:  Undefined index: login in C:\xampp\htdocs\Q&A\login.php on line 12
+[18-Dec-2020 02:40:02 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 47
+[18-Dec-2020 02:40:48 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 47
+[18-Dec-2020 02:40:55 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in C:\xampp\htdocs\Q&A\login.php on line 47
+[18-Dec-2020 02:40:55 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\login.php on line 57
+[18-Dec-2020 02:40:55 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\login.php on line 58
+[18-Dec-2020 02:40:55 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\login.php on line 60
+[18-Dec-2020 02:41:49 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\login.php on line 56
+[18-Dec-2020 02:41:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\login.php on line 57
+[18-Dec-2020 02:41:49 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\login.php on line 59
+[18-Dec-2020 02:42:11 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\login.php on line 56
+[18-Dec-2020 02:42:11 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\login.php on line 57
+[18-Dec-2020 02:42:11 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\login.php on line 59
+[18-Dec-2020 02:42:16 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\login.php on line 56
+[18-Dec-2020 02:42:16 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\login.php on line 57
+[18-Dec-2020 02:42:16 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\login.php on line 59
+[18-Dec-2020 02:44:05 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\login.php on line 56
+[18-Dec-2020 02:44:05 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\login.php on line 57
+[18-Dec-2020 02:44:05 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\login.php on line 59
+[18-Dec-2020 02:45:16 Europe/Berlin] PHP Warning:  include(/config/session.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Q&A\analytics.php on line 4
+[18-Dec-2020 02:45:16 Europe/Berlin] PHP Warning:  include(): Failed opening '/config/session.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Q&A\analytics.php on line 4
+[18-Dec-2020 02:45:18 Europe/Berlin] PHP Warning:  include(/config/session.php): failed to open stream: No such file or directory in C:\xampp\htdocs\Q&A\analytics.php on line 4
+[18-Dec-2020 02:45:18 Europe/Berlin] PHP Warning:  include(): Failed opening '/config/session.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Q&A\analytics.php on line 4
+[18-Dec-2020 02:46:32 Europe/Berlin] PHP Notice:  Constant DB_HOST already defined in C:\xampp\htdocs\Q&A\config\dbConfig.php on line 2
+[18-Dec-2020 02:46:32 Europe/Berlin] PHP Notice:  Constant DB_USER already defined in C:\xampp\htdocs\Q&A\config\dbConfig.php on line 3
+[18-Dec-2020 02:46:32 Europe/Berlin] PHP Notice:  Constant DB_PASSWORD already defined in C:\xampp\htdocs\Q&A\config\dbConfig.php on line 4
+[18-Dec-2020 02:46:32 Europe/Berlin] PHP Notice:  Constant DB_DATABSE already defined in C:\xampp\htdocs\Q&A\config\dbConfig.php on line 5
+[18-Dec-2020 02:46:32 Europe/Berlin] PHP Fatal error:  Cannot declare class dbConnect, because the name is already in use in C:\xampp\htdocs\Q&A\config\dbConnect.php on line 3
+[18-Dec-2020 02:46:39 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\login.php on line 56
+[18-Dec-2020 02:46:39 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\login.php on line 57
+[18-Dec-2020 02:46:39 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\login.php on line 59
+[18-Dec-2020 02:46:40 Europe/Berlin] PHP Notice:  Constant DB_HOST already defined in C:\xampp\htdocs\Q&A\config\dbConfig.php on line 2
+[18-Dec-2020 02:46:40 Europe/Berlin] PHP Notice:  Constant DB_USER already defined in C:\xampp\htdocs\Q&A\config\dbConfig.php on line 3
+[18-Dec-2020 02:46:40 Europe/Berlin] PHP Notice:  Constant DB_PASSWORD already defined in C:\xampp\htdocs\Q&A\config\dbConfig.php on line 4
+[18-Dec-2020 02:46:40 Europe/Berlin] PHP Notice:  Constant DB_DATABSE already defined in C:\xampp\htdocs\Q&A\config\dbConfig.php on line 5
+[18-Dec-2020 02:46:40 Europe/Berlin] PHP Fatal error:  Cannot declare class dbConnect, because the name is already in use in C:\xampp\htdocs\Q&A\config\dbConnect.php on line 3
+[18-Dec-2020 02:46:44 Europe/Berlin] PHP Notice:  Constant DB_HOST already defined in C:\xampp\htdocs\Q&A\config\dbConfig.php on line 2
+[18-Dec-2020 02:46:44 Europe/Berlin] PHP Notice:  Constant DB_USER already defined in C:\xampp\htdocs\Q&A\config\dbConfig.php on line 3
+[18-Dec-2020 02:46:44 Europe/Berlin] PHP Notice:  Constant DB_PASSWORD already defined in C:\xampp\htdocs\Q&A\config\dbConfig.php on line 4
+[18-Dec-2020 02:46:44 Europe/Berlin] PHP Notice:  Constant DB_DATABSE already defined in C:\xampp\htdocs\Q&A\config\dbConfig.php on line 5
+[18-Dec-2020 02:46:44 Europe/Berlin] PHP Fatal error:  Cannot declare class dbConnect, because the name is already in use in C:\xampp\htdocs\Q&A\config\dbConnect.php on line 3
+[18-Dec-2020 02:46:46 Europe/Berlin] PHP Notice:  Constant DB_HOST already defined in C:\xampp\htdocs\Q&A\config\dbConfig.php on line 2
+[18-Dec-2020 02:46:46 Europe/Berlin] PHP Notice:  Constant DB_USER already defined in C:\xampp\htdocs\Q&A\config\dbConfig.php on line 3
+[18-Dec-2020 02:46:46 Europe/Berlin] PHP Notice:  Constant DB_PASSWORD already defined in C:\xampp\htdocs\Q&A\config\dbConfig.php on line 4
+[18-Dec-2020 02:46:46 Europe/Berlin] PHP Notice:  Constant DB_DATABSE already defined in C:\xampp\htdocs\Q&A\config\dbConfig.php on line 5
+[18-Dec-2020 02:46:46 Europe/Berlin] PHP Fatal error:  Cannot declare class dbConnect, because the name is already in use in C:\xampp\htdocs\Q&A\config\dbConnect.php on line 3
+[18-Dec-2020 02:47:29 Europe/Berlin] PHP Fatal error:  Cannot declare class dbConnect, because the name is already in use in C:\xampp\htdocs\Q&A\config\dbConnect.php on line 3
+[18-Dec-2020 02:47:30 Europe/Berlin] PHP Fatal error:  Cannot declare class dbConnect, because the name is already in use in C:\xampp\htdocs\Q&A\config\dbConnect.php on line 3
+[18-Dec-2020 02:48:20 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\Q&A\config\session.php on line 4
+[18-Dec-2020 02:48:20 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:48:20 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:48:20 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\Q&A\config\session.php on line 8
+[18-Dec-2020 02:48:20 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\config\session.php on line 10
+[18-Dec-2020 02:48:22 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\Q&A\config\session.php on line 4
+[18-Dec-2020 02:48:22 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:48:22 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:48:22 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\Q&A\config\session.php on line 8
+[18-Dec-2020 02:48:22 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\config\session.php on line 10
+[18-Dec-2020 02:48:22 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\Q&A\config\session.php on line 4
+[18-Dec-2020 02:48:22 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:48:22 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:48:22 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\Q&A\config\session.php on line 8
+[18-Dec-2020 02:48:22 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\config\session.php on line 10
+[18-Dec-2020 02:48:29 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\login.php on line 56
+[18-Dec-2020 02:48:29 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\login.php on line 57
+[18-Dec-2020 02:48:29 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\login.php on line 59
+[18-Dec-2020 02:48:31 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\Q&A\config\session.php on line 4
+[18-Dec-2020 02:48:31 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:48:31 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:48:31 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\Q&A\config\session.php on line 8
+[18-Dec-2020 02:48:31 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\config\session.php on line 10
+[18-Dec-2020 02:48:38 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\Q&A\config\session.php on line 4
+[18-Dec-2020 02:48:38 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:48:38 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:48:38 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\Q&A\config\session.php on line 8
+[18-Dec-2020 02:48:38 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\config\session.php on line 10
+[18-Dec-2020 02:48:38 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\Q&A\config\session.php on line 4
+[18-Dec-2020 02:48:38 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:48:38 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:48:38 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\Q&A\config\session.php on line 8
+[18-Dec-2020 02:48:38 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\config\session.php on line 10
+[18-Dec-2020 02:48:38 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\Q&A\config\session.php on line 4
+[18-Dec-2020 02:48:38 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:48:38 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:48:38 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\Q&A\config\session.php on line 8
+[18-Dec-2020 02:48:38 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\config\session.php on line 10
+[18-Dec-2020 02:48:40 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\Q&A\config\session.php on line 4
+[18-Dec-2020 02:48:40 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:48:40 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:48:40 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\Q&A\config\session.php on line 8
+[18-Dec-2020 02:48:40 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\config\session.php on line 10
+[18-Dec-2020 02:48:44 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\login.php on line 56
+[18-Dec-2020 02:48:44 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\login.php on line 57
+[18-Dec-2020 02:48:44 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\login.php on line 59
+[18-Dec-2020 02:48:46 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\Q&A\config\session.php on line 4
+[18-Dec-2020 02:48:46 Europe/Berlin] PHP Notice:  Undefined variable: db in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:48:46 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:48:46 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\Q&A\config\session.php on line 8
+[18-Dec-2020 02:48:46 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\config\session.php on line 10
+[18-Dec-2020 02:49:43 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:49:43 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\config\session.php on line 10
+[18-Dec-2020 02:49:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\config\session.php on line 12
+[18-Dec-2020 02:49:47 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\login.php on line 56
+[18-Dec-2020 02:49:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\login.php on line 57
+[18-Dec-2020 02:49:47 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\login.php on line 59
+[18-Dec-2020 02:49:49 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:49:49 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\config\session.php on line 10
+[18-Dec-2020 02:49:49 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\config\session.php on line 12
+[18-Dec-2020 02:49:53 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\login.php on line 56
+[18-Dec-2020 02:49:53 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\login.php on line 57
+[18-Dec-2020 02:49:53 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\login.php on line 59
+[18-Dec-2020 02:49:55 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:49:55 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\config\session.php on line 10
+[18-Dec-2020 02:49:55 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\config\session.php on line 12
+[18-Dec-2020 02:49:55 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:49:55 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\config\session.php on line 10
+[18-Dec-2020 02:49:55 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\config\session.php on line 12
+[18-Dec-2020 02:51:42 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:51:42 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\config\session.php on line 10
+[18-Dec-2020 02:51:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\config\session.php on line 12
+[18-Dec-2020 02:51:47 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\login.php on line 56
+[18-Dec-2020 02:51:47 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\login.php on line 57
+[18-Dec-2020 02:51:47 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\login.php on line 59
+[18-Dec-2020 02:51:52 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\login.php on line 56
+[18-Dec-2020 02:51:52 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\login.php on line 57
+[18-Dec-2020 02:51:52 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\login.php on line 59
+[18-Dec-2020 02:51:54 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:51:54 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\config\session.php on line 10
+[18-Dec-2020 02:51:54 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\config\session.php on line 12
+[18-Dec-2020 02:51:55 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:51:55 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\config\session.php on line 10
+[18-Dec-2020 02:51:55 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\config\session.php on line 12
+[18-Dec-2020 02:51:56 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:51:56 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\config\session.php on line 10
+[18-Dec-2020 02:51:56 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\config\session.php on line 12
+[18-Dec-2020 02:52:23 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:52:23 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\config\session.php on line 10
+[18-Dec-2020 02:52:23 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\config\session.php on line 12
+[18-Dec-2020 02:52:31 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:52:31 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\config\session.php on line 10
+[18-Dec-2020 02:52:31 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\config\session.php on line 12
+[18-Dec-2020 02:52:32 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:52:32 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\config\session.php on line 10
+[18-Dec-2020 02:52:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\config\session.php on line 12
+[18-Dec-2020 02:52:32 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:52:32 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\config\session.php on line 10
+[18-Dec-2020 02:52:32 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\config\session.php on line 12
+[18-Dec-2020 02:52:33 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:52:33 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\config\session.php on line 10
+[18-Dec-2020 02:52:33 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\config\session.php on line 12
+[18-Dec-2020 02:53:58 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:53:58 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\config\session.php on line 10
+[18-Dec-2020 02:53:58 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\config\session.php on line 12
+[18-Dec-2020 02:53:59 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:53:59 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\config\session.php on line 10
+[18-Dec-2020 02:53:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\config\session.php on line 12
+[18-Dec-2020 02:53:59 Europe/Berlin] PHP Notice:  Undefined index: login_user in C:\xampp\htdocs\Q&A\config\session.php on line 6
+[18-Dec-2020 02:53:59 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in C:\xampp\htdocs\Q&A\config\session.php on line 10
+[18-Dec-2020 02:53:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Q&A\config\session.php on line 12
+[18-Dec-2020 02:57:23 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 02:57:23 Europe/Berlin] PHP Notice:  Undefined index: password in C:\xampp\htdocs\Q&A\protect.php on line 17
+[18-Dec-2020 02:57:23 Europe/Berlin] PHP Notice:  Undefined index: password_protect_http_localhost_8080_Q_A_analytics_php in C:\xampp\htdocs\Q&A\protect.php on line 23
+[18-Dec-2020 02:57:31 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 02:57:31 Europe/Berlin] PHP Notice:  Undefined index: password_protect_http_localhost_8080_Q_A_analytics_php in C:\xampp\htdocs\Q&A\protect.php on line 23
+[18-Dec-2020 02:57:39 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 02:57:39 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 02:57:39 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 02:57:39 Europe/Berlin] PHP Notice:  Undefined index: password in C:\xampp\htdocs\Q&A\protect.php on line 17
+[18-Dec-2020 02:58:14 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 02:58:14 Europe/Berlin] PHP Notice:  Undefined index: password in C:\xampp\htdocs\Q&A\protect.php on line 17
+[18-Dec-2020 02:58:16 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 02:58:16 Europe/Berlin] PHP Notice:  Undefined index: password in C:\xampp\htdocs\Q&A\protect.php on line 17
+[18-Dec-2020 02:59:04 Europe/Berlin] PHP Notice:  Undefined index: register in C:\xampp\htdocs\Q&A\register.php on line 6
+[18-Dec-2020 02:59:04 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[18-Dec-2020 02:59:04 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[18-Dec-2020 02:59:04 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[18-Dec-2020 02:59:04 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[18-Dec-2020 02:59:04 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 16
+[18-Dec-2020 03:16:49 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 03:16:49 Europe/Berlin] PHP Notice:  Undefined index: password in C:\xampp\htdocs\Q&A\protect.php on line 17
+[18-Dec-2020 03:16:49 Europe/Berlin] PHP Notice:  Undefined index: password_protect_http_localhost_8080_Q_A_analytics_php in C:\xampp\htdocs\Q&A\protect.php on line 23
+[18-Dec-2020 03:18:28 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 03:18:28 Europe/Berlin] PHP Notice:  Undefined index: password in C:\xampp\htdocs\Q&A\protect.php on line 17
+[18-Dec-2020 03:18:28 Europe/Berlin] PHP Notice:  Undefined index: password_protect_http_localhost_8080_Q_A_analytics_php in C:\xampp\htdocs\Q&A\protect.php on line 23
+[18-Dec-2020 03:18:28 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[18-Dec-2020 03:18:28 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[18-Dec-2020 03:18:28 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[18-Dec-2020 03:18:28 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[18-Dec-2020 03:18:28 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 16
+[18-Dec-2020 03:18:49 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 03:18:49 Europe/Berlin] PHP Notice:  Undefined index: password in C:\xampp\htdocs\Q&A\protect.php on line 17
+[18-Dec-2020 03:18:49 Europe/Berlin] PHP Notice:  Undefined index: password_protect_http_localhost_8080_Q_A_analytics_php in C:\xampp\htdocs\Q&A\protect.php on line 23
+[18-Dec-2020 03:18:49 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[18-Dec-2020 03:18:49 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[18-Dec-2020 03:18:49 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[18-Dec-2020 03:18:49 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[18-Dec-2020 03:18:49 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 16
+[18-Dec-2020 03:18:52 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 03:18:52 Europe/Berlin] PHP Notice:  Undefined index: password in C:\xampp\htdocs\Q&A\protect.php on line 17
+[18-Dec-2020 03:18:52 Europe/Berlin] PHP Notice:  Undefined index: password_protect_http_localhost_8080_Q_A_analytics_php in C:\xampp\htdocs\Q&A\protect.php on line 23
+[18-Dec-2020 03:18:52 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[18-Dec-2020 03:18:52 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[18-Dec-2020 03:18:52 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[18-Dec-2020 03:18:52 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[18-Dec-2020 03:18:52 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 16
+[18-Dec-2020 03:19:12 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 03:19:12 Europe/Berlin] PHP Notice:  Undefined index: password in C:\xampp\htdocs\Q&A\protect.php on line 17
+[18-Dec-2020 03:19:12 Europe/Berlin] PHP Notice:  Undefined index: password_protect_http_localhost_8080_Q_A_analytics_php in C:\xampp\htdocs\Q&A\protect.php on line 23
+[18-Dec-2020 03:19:12 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[18-Dec-2020 03:19:12 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[18-Dec-2020 03:19:12 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[18-Dec-2020 03:19:12 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[18-Dec-2020 03:19:12 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 16
+[18-Dec-2020 03:19:13 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 03:19:13 Europe/Berlin] PHP Notice:  Undefined index: password in C:\xampp\htdocs\Q&A\protect.php on line 17
+[18-Dec-2020 03:19:13 Europe/Berlin] PHP Notice:  Undefined index: password_protect_http_localhost_8080_Q_A_analytics_php in C:\xampp\htdocs\Q&A\protect.php on line 23
+[18-Dec-2020 03:19:13 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[18-Dec-2020 03:19:13 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[18-Dec-2020 03:19:13 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[18-Dec-2020 03:19:13 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[18-Dec-2020 03:19:13 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 16
+[18-Dec-2020 03:19:16 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 03:19:16 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 03:19:16 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 03:19:16 Europe/Berlin] PHP Notice:  Undefined index: password in C:\xampp\htdocs\Q&A\protect.php on line 17
+[18-Dec-2020 03:19:20 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 03:19:20 Europe/Berlin] PHP Notice:  Undefined index: password in C:\xampp\htdocs\Q&A\protect.php on line 17
+[18-Dec-2020 03:20:10 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[18-Dec-2020 03:20:10 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[18-Dec-2020 03:20:10 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[18-Dec-2020 03:20:10 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[18-Dec-2020 03:20:10 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 16
+[18-Dec-2020 03:20:17 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 03:20:17 Europe/Berlin] PHP Notice:  Undefined index: password in C:\xampp\htdocs\Q&A\protect.php on line 17
+[18-Dec-2020 03:20:21 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 03:20:21 Europe/Berlin] PHP Notice:  Undefined index: password in C:\xampp\htdocs\Q&A\protect.php on line 17
+[18-Dec-2020 03:20:23 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 03:20:23 Europe/Berlin] PHP Notice:  Undefined index: password in C:\xampp\htdocs\Q&A\protect.php on line 17
+[18-Dec-2020 03:20:28 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 03:20:28 Europe/Berlin] PHP Notice:  Undefined index: password in C:\xampp\htdocs\Q&A\protect.php on line 17
+[18-Dec-2020 03:20:38 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 03:20:38 Europe/Berlin] PHP Notice:  Undefined index: password in C:\xampp\htdocs\Q&A\protect.php on line 17
+[18-Dec-2020 03:20:40 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 03:20:40 Europe/Berlin] PHP Notice:  Undefined index: password in C:\xampp\htdocs\Q&A\protect.php on line 17
+[18-Dec-2020 03:32:48 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 03:32:48 Europe/Berlin] PHP Notice:  Undefined index: password in C:\xampp\htdocs\Q&A\protect.php on line 17
+[18-Dec-2020 03:32:48 Europe/Berlin] PHP Notice:  Undefined index: password_protect_http_localhost_8080_Q_A_analytics_php in C:\xampp\htdocs\Q&A\protect.php on line 23
+[18-Dec-2020 03:32:48 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[18-Dec-2020 03:32:48 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[18-Dec-2020 03:32:48 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[18-Dec-2020 03:32:48 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[18-Dec-2020 03:32:48 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 16
+[18-Dec-2020 03:35:49 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 03:35:49 Europe/Berlin] PHP Notice:  Undefined index: password in C:\xampp\htdocs\Q&A\protect.php on line 17
+[18-Dec-2020 03:35:49 Europe/Berlin] PHP Notice:  Undefined index: password_protect_http_localhost_8080_Q_A_analytics_php in C:\xampp\htdocs\Q&A\protect.php on line 23
+[18-Dec-2020 03:35:49 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[18-Dec-2020 03:35:49 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[18-Dec-2020 03:35:49 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[18-Dec-2020 03:35:49 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[18-Dec-2020 03:35:49 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 16
+[18-Dec-2020 03:35:53 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 03:35:53 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 03:35:53 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 03:35:53 Europe/Berlin] PHP Notice:  Undefined index: password in C:\xampp\htdocs\Q&A\protect.php on line 17
+[18-Dec-2020 03:38:59 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 03:38:59 Europe/Berlin] PHP Notice:  Undefined index: password in C:\xampp\htdocs\Q&A\protect.php on line 17
+[18-Dec-2020 03:48:16 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[18-Dec-2020 03:48:16 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[18-Dec-2020 03:48:16 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[18-Dec-2020 03:48:16 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[18-Dec-2020 03:48:16 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 16
+[18-Dec-2020 03:48:31 Europe/Berlin] PHP Notice:  Undefined index: HTTPS in C:\xampp\htdocs\Q&A\protect.php on line 34
+[18-Dec-2020 03:48:31 Europe/Berlin] PHP Notice:  Undefined index: password in C:\xampp\htdocs\Q&A\protect.php on line 17
+[18-Dec-2020 03:48:31 Europe/Berlin] PHP Notice:  Undefined index: password_protect_http_localhost_8080_Q_A_analytics_php in C:\xampp\htdocs\Q&A\protect.php on line 23
+[18-Dec-2020 03:48:31 Europe/Berlin] PHP Notice:  Undefined variable: PAGE_TITLE in C:\xampp\htdocs\Q&A\includes\template\head.php on line 16
+[18-Dec-2020 03:48:31 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 9
+[18-Dec-2020 03:48:31 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 10
+[18-Dec-2020 03:48:31 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 12
+[18-Dec-2020 03:48:31 Europe/Berlin] PHP Notice:  Undefined variable: CURRENT_PAGE in C:\xampp\htdocs\Q&A\includes\template\navigation.php on line 16

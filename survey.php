@@ -7,9 +7,8 @@ $PAGE_TITLE = "Survey"; ?>
 <html>
 <!-- Head  -->
 <?php include("includes/template/head.php"); ?>
-1
 <style>
-    #form_survay fieldset:not(:first-of-type) {
+    #form_survey fieldset:not(:first-of-type) {
         display: none;
     }
 </style>
@@ -46,7 +45,7 @@ function prevStep()
         </div>
         <div class="card card-signin my-5">
             <div class="card-body">
-                <form id="form_survay" novalidate action="action.php" method="post">
+                <form id="form_survey" novalidate action="action.php" method="post">
                     <fieldset>
                         <?php $x = new Question(1, 'I can see how this unit contributes to my overall programme of study.');
                         $x->build();
@@ -101,7 +100,7 @@ function prevStep()
                         ?>
 
                         <?php prevStep(); ?>
-                        <input type="submit" name="submit" class="submit btn btn-success text-uppercase" value="Submit" id="submit_data" />
+                        <input type="submit" name="submit" class="submit btn btn-success text-uppercase" id="submit_data" />
                     </fieldset>
                 </form>
             </div>
@@ -139,15 +138,42 @@ function prevStep()
             }
         });
     </script>
-    <script>
-        var slider = document.getElementById("quest1");
-        var output = document.getElementById("val1");
-        output.innerHTML = slider.value;
+<script>
+    var slider1 = document.getElementById("quest1");
+    var output1 = document.getElementById("val1");
+    output1.innerHTML = slider1.value;
 
-        slider.oninput = function() {
-            output.innerHTML = this.value;
-        }
-    </script>
+    slider1.oninput = function() {
+        output1.innerHTML = this.value;
+    }
+</script>
+<script>
+    var slider2 = document.getElementById("quest2");
+    var output2 = document.getElementById("val2");
+    output2.innerHTML = slider2.value;
+
+    slider2.oninput = function() {
+        output2.innerHTML = this.value;
+    }
+</script>
+<script>
+    var slider3 = document.getElementById("quest3");
+    var output3 = document.getElementById("val3");
+    output2.innerHTML = slider2.value;
+
+    slider3.oninput = function() {
+        output3.innerHTML = this.value;
+    }
+</script>
+<script>
+    var slider4 = document.getElementById("quest4");
+    var output4 = document.getElementById("val4");
+    output4.innerHTML = slider4.value;
+
+    slider4.oninput = function() {
+        output4.innerHTML = this.value;
+    }
+</script>
 
     <?php include("includes/template/footer.php"); ?>
 
